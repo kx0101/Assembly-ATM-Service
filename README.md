@@ -1,6 +1,6 @@
 # Assembly-ATM-Service
 
-## A simple ATM project that was mdae for my university class "Computer Architecture".
+## A simple ATM project that was created for my university class "Computer Architecture".
 
 **Features**
 
